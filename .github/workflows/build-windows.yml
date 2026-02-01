@@ -19,7 +19,7 @@ jobs:
       run: build.bat
       
     - name: Setup Inno Setup
-      uses: minsk-maz/setup-inno-setup@v1
+      uses: minhng97/setup-inno-setup@v1
       with:
         version: "6.2.1"
         
