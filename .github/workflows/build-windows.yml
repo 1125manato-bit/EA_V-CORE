@@ -18,10 +18,11 @@ jobs:
       shell: cmd
       run: build.bat
       
-    - name: Setup Inno Setup
-      uses: minhng97/setup-inno-setup@v1
-      with:
-        version: "6.2.1"
+    - name: Install Inno Setup
+      shell: cmd
+      run: |
+        choco install innosetup
+        echo "C:\Program Files (x86)\Inno Setup 6" >> $GITHUB_PATH
         
     - name: Build Installer
       shell: cmd
