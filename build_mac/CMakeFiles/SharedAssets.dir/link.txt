@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSharedAssets.a CMakeFiles/SharedAssets.dir/juce_binarydata_SharedAssets/JuceLibraryCode/BinaryData1.cpp.o CMakeFiles/SharedAssets.dir/juce_binarydata_SharedAssets/JuceLibraryCode/BinaryData2.cpp.o
+/usr/bin/ranlib libSharedAssets.a

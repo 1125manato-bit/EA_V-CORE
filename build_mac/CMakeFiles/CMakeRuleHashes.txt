@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+0f9b90ec7a0fef2c22382e1da8773756 EA_V-CORE_artefacts/JuceLibraryCode/EA_V-CORE_AU/PkgInfo
+de7114f60c04256e9fe78e210f9e0faf EA_V-CORE_artefacts/JuceLibraryCode/EA_V-CORE_VST3/PkgInfo
+c3d8d0f49987960d7d8da9d65ea7bb6d EA_V-CORE_artefacts/JuceLibraryCode/JuceHeader.h
+79c72b42fbb937b9f837e173d0c4cc4b juce_binarydata_SharedAssets/JuceLibraryCode/BinaryData1.cpp
